@@ -40,7 +40,6 @@
 <ul>
   <li>🔗 <a href="https://www.linkedin.com/in/andrielealvesoliveiira/" target="_blank">LinkedIn</a></li>
   <li>📸 <a href="https://www.instagram.com/andriele.oliveiira/" target="_blank">Instagram</a></li>
-  <li>✉️ E-mail: seuemail@example.com <em>(substitua pelo seu e-mail real)</em></li>
 </ul>
 
 <hr />
